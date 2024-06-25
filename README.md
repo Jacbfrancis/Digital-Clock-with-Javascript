@@ -19,7 +19,7 @@
 
 ### Links
 
-- Live Site URL: [Digital Clock with Javascript](https://fanciful-concha-d552d0.netlify.app/)
+- Live Site URL: [Digital Clock with Javascript](https://digital-clock-javascriptt.netlify.app/)
 
 ## My process
 
